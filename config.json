@@ -1,0 +1,114 @@
+{    
+    "CHANNELS":{
+        "WELCOME": {
+            "CHANNEL_ID":"1136745518047961179",        
+            "BACKGROUND_IMAGES_LIST": [
+                "https://i.ibb.co/rpFj3d2/final-background-img-v1.png",
+                "https://i.ibb.co/vPjPhJV/final-background-img.png"
+            ] 
+        },
+        "VOICE_CHANNELS":{
+            "JOIN_TO_CREATE_CHANNEL_ID": "1132599073380237382",
+            "JOINT_TO_WAIT_RESQUEST_CHANNEL_ID": "1133661647781777418"
+        },
+        "CATEGORIES": {
+            "PERSONAL_CAT_ID": "1140434159291080825"
+        },
+        "TEXT": {
+            "ACCOUNT_MATCHES_ID": "1129716707523567657",
+            "ACC_INFO_LOG_CHANNEL_ID": "1130069440055218217",
+            "ACC_MEDALS_LOG_GUILD_CHANNEL_ID": "1131926033688428604",
+            "PARTY_ANNOUNCEMENT_CHANNEL_ID": "1139018360630288464",
+            "PARTY_STATUS_CHANNEL_ID": "1136899895266123807",
+            "ERROR_CONSOLE_LOG_CHANNEL_ID": "1134489066054885498",
+            "CLIENT_STATUS_LOG_CHANNEL_ID": "1134491848472277053",        
+            "ACC_LOG_CHANNEL_ID" : "1129668198493605919"
+        }         
+    },
+    "IMAGES":{
+             
+    },
+    "GUILDS":{
+        "LINKED_ACC_ROLE_ID": "1129675705723129906",
+        "EVERYONE_ROLE_ID": "1127980335083302932"
+    }, 
+    "DOTA_LANES":{
+        "1": {"name": "Safe Lane", "image_url": "https://i.ibb.co/8s9pDcp/safe-lane.png"},
+        "2": {"name": "Mid Lane", "image_url": "https://i.ibb.co/JRySTy0/mid-lane.png"},
+        "3": {"name": "Off Lane", "image_url": "https://i.ibb.co/t8S2Sj2/off-lane.png"},
+        "4": {"name": "Soft Support", "image_url": "https://i.ibb.co/NKK72W5/soft-support.png"},
+        "5": {"name": "Hard Support", "image_url": "https://i.ibb.co/C6mb5LH/hard-support.png"}     
+    },   
+    "DOTA_RANKS_ROLES_ID": [
+        {"role_id": "1130157985277169725", "name": "Uncalibrated"},
+        {"role_id": "1130158317277286450", "name": "Herald"},
+        {"role_id": "1130158676687212586", "name": "Guardian"},
+        {"role_id": "1130159399663583312", "name": "Crusader"},
+        {"role_id": "1130159738517213244", "name": "Archon"},
+        {"role_id": "1130160166843727892", "name": "Legend"},
+        {"role_id": "1130160369520873503", "name": "Ancient"},
+        {"role_id": "1130160443432902717", "name": "Divine"},
+        {"role_id": "1130160612102647920", "name": "Immortal"}
+    ],
+    "MEDALS_EMBEDS": [
+        {"name": "Uncalibrated", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_0.png", "stars": []},
+        {"name": "Herald", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_1.png", "stars":[
+            {"name": "Herald 1", "image_url": "https://i.ibb.co/Lg4CSK1/Seasonal-Rank1-1.webp"},       
+        {"name": "Herald 2", "image_url": "https://i.ibb.co/QKmDkWy/Seasonal-Rank1-2.webp"},
+        {"name": "Herald 3", "image_url": "https://i.ibb.co/FXrnJHy/Seasonal-Rank1-3.webp"},
+        {"name": "Herald 4", "image_url": "https://i.ibb.co/7SMKtz1/Seasonal-Rank1-4.webp"},
+        {"name": "Herald 5", "image_url": "https://i.ibb.co/0nNV0qz/Seasonal-Rank1-5.webp"}
+        ]},
+        {"name": "Guardian", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_2.png", "stars":[
+            {"name": "Guardian 1", "image_url": "https://i.ibb.co/hmHrhTc/Seasonal-Rank2-1.webp"},
+        {"name": "Guardian 2", "image_url": "https://i.ibb.co/1MC4g56/Seasonal-Rank2-2.webp"},
+        {"name": "Guardian 3", "image_url": "https://i.ibb.co/vV2JnSt/Seasonal-Rank2-3.webp"},
+        {"name": "Guardian 4", "image_url": "https://i.ibb.co/vz6VFk5/Seasonal-Rank2-4.webp"},
+        {"name": "Guardian 5", "image_url": "https://i.ibb.co/1mwbY0y/Seasonal-Rank2-5.webp"}
+        ]},
+        {"name": "Crusader", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_3.png", "stars":[
+            {"name": "Crusader 1", "image_url": "https://i.ibb.co/8BJVPt6/Seasonal-Rank3-1.webp"},
+        {"name": "Crusader 2", "image_url": "https://i.ibb.co/gJt1fjM/Seasonal-Rank3-2.webp"},
+        {"name": "Crusader 3", "image_url": "https://i.ibb.co/BL4tsp0/Seasonal-Rank3-3.webp"},
+        {"name": "Crusader 4", "image_url": "https://i.ibb.co/CJNZRjT/Seasonal-Rank3-4.webp"},
+        {"name": "Crusader 5", "image_url": "https://i.ibb.co/zb6vwTC/Seasonal-Rank3-5.webp"}
+        ]},
+        {"name": "Archon", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_4.png", "stars":[
+            {"name": "Archon 1", "image_url": "https://i.ibb.co/0tNHn2R/Seasonal-Rank4-1.webp"},
+        {"name": "Archon 2", "image_url": "https://i.ibb.co/8jSp5vg/Seasonal-Rank4-2.webp"},
+        {"name": "Archon 3", "image_url": "https://i.ibb.co/rGrCG1J/Seasonal-Rank4-3.webp"},
+        {"name": "Archon 4", "image_url": "https://i.ibb.co/QrcjHqQ/Seasonal-Rank4-4.webp"},
+        {"name": "Archon 5", "image_url": "https://i.ibb.co/hfP93fD/Seasonal-Rank4-5.webp"}
+        ]},
+        {"name": "Legend", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_5.png", "stars":[
+            {"name": "Legend 1", "image_url": "https://i.ibb.co/FnGKkk3/Seasonal-Rank5-1.webp"},
+        {"name": "Legend 2", "image_url": "https://i.ibb.co/1Zv9m7y/Seasonal-Rank5-2.webp"},
+        {"name": "Legend 3", "image_url": "https://i.ibb.co/2Ktyzqf/Seasonal-Rank5-3.webp"},
+        {"name": "Legend 4", "image_url": "https://i.ibb.co/2cTcvMw/Seasonal-Rank5-4.webp"},
+        {"name": "Legend 5", "image_url": "https://i.ibb.co/ScVT2Xv/Seasonal-Rank5-5.webp"}
+        ]},
+        {"name": "Ancient", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_6.png", "stars":[
+            {"name": "Ancient 1", "image_url": "https://i.ibb.co/FnJ2shH/Seasonal-Rank6-1.webp"},
+        {"name": "Ancient 2", "image_url": "https://i.ibb.co/HXsZx6c/Seasonal-Rank6-2.webp"},
+        {"name": "Ancient 3", "image_url": "https://i.ibb.co/fNh0P9K/Seasonal-Rank6-3.webp"},
+        {"name": "Ancient 4", "image_url": "https://i.ibb.co/FD0mSXq/Seasonal-Rank6-4.webp"},
+        {"name": "Ancient 5", "image_url": "https://i.ibb.co/q5vmPvc/Seasonal-Rank6-5.webp"}
+        ]},
+        {"name": "Divine", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_7.png", "stars":[
+            {"name": "Divine 1", "image_url": "https://i.ibb.co/T2Fcm42/Seasonal-Rank7-1.webp"},
+        {"name": "Divine 2", "image_url": "https://i.ibb.co/mvm3B1c/Seasonal-Rank7-2.webp"},
+        {"name": "Divine 3", "image_url": "https://i.ibb.co/Rjpdv0J/Seasonal-Rank7-3.webp"},
+        {"name": "Divine 4", "image_url": "https://i.ibb.co/qnSksHD/Seasonal-Rank7-4.webp"},
+        {"name": "Divine 5", "image_url": "https://i.ibb.co/6r1yJGF/Seasonal-Rank7-5.webp"}
+        ]},
+        {"name": "Immortal", "image_url": "https://cdn.stratz.com/images/dota2/seasonal_rank/medal_8.png", "stars":[
+            {"name": "Immortal", "image_url": "https://i.ibb.co/m6NDrtj/Seasonal-Rank-Top0.webp"},
+        {"name": "Immortal Top 1000", "image_url": "https://i.ibb.co/7r5DzWJ/Seasonal-Rank-Top1.webp"},
+        {"name": "Immortal Top 100", "image_url": "https://i.ibb.co/HXD3MJs/Seasonal-Rank-Top2.webp"},
+        {"name": "Immortal Top 10", "image_url": "https://i.ibb.co/jyzVvkr/Seasonal-Rank-Top3.webp"},
+        {"name": "Immortal Top 1", "image_url": "https://i.ibb.co/wS6nq52/Seasonal-Rank-Top4.webp"}
+        ]}  
+        
+      ]    
+    
+}
